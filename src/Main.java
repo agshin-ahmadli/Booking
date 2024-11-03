@@ -122,6 +122,7 @@ public class Main {
 
         //cancelling
         System.out.println("In order to cancel your reservation please enter roomId and your Id: ");
+        System.out.print("roomId: ");
         int roomNumCancel = scanner.nextInt();
         System.out.print("yourId: ");
         int yourIdCancel = scanner.nextInt();
