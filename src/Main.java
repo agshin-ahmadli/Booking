@@ -118,7 +118,7 @@ public class Main {
 
         hotel.bookForClient(roomNum,yourId);
         System.out.println();
-        System.out.println("-------------------------------------------");
+        System.out.println("--------------------------------------------");
 
         //cancelling
         System.out.println("In order to cancel your reservation please enter roomId and your Id: ");
